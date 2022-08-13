@@ -1,0 +1,31 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+header {
+	background-color: #167dff;
+}
+
+#logo {
+	color: #ffffff;
+	display: inline-block;
+  
+}
+
+#navbar {
+  list-style-type: none;
+  display: inline-block;
+  margin-left: 50%;
+}
+
+#navbar li {
+  display: inline-block;
+  margin: 10px;
+}
+
+#navbar li a {
+	color: #ffffff;
+	text-decoration: none;
+}
+
