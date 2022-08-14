@@ -1,3 +1,98 @@
-#div {
+/* #div {
 	color: rgb(255,255, 0);
+} */
+
+/* table, th, td {
+	border: 1px solid #000;
+	border-collapse: collapse;
+	padding: 10px;
+	background-color: red;
+	color: #fff;
+} */
+
+
+/* *{
+	margin: 0;
+} */
+
+
+/*  Id Selector */
+
+/* #div {
+	height: 100px;
+	width: 100px;
+	background-color: red;
+} */
+
+/*  class Selector */
+
+
+/* .div {
+	height: 100px;
+	width: 100px;
+	background-color: red;
+} */
+
+/* tag selector */
+
+/* div{
+	height: 100px;
+	width: 100px;
+	background-color: red;
+} */
+
+/* Background */
+/* 
+div{
+	height: 100px;
+	width: 100px;
+     background-image: url(image1.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+	border-left: 1px dotted red; 
+	background-color: red;
+	display: inline-block;
 }
+
+
+p {
+	color: red;
+	text-align:center;
+	 text-decoration: line-through;
+	text-transform: uppercase;
+	text-indent: 1px;
+	letter-spacing: 1px;
+	/* line-height: 10px; */
+	/* text-shadow: 10px 2px;
+
+	font-size: 32px;
+	font-weight: 600;
+	font-family: 'Courier New', Courier, monospace;
+}
+
+p:hover{
+	color:green
+}
+
+span {
+	display: block;
+	float: right;
+} */
+
+
+/* p {
+	position: fixed;
+    top: 10px;
+    left: 196px;
+} */
+
+
+/* #parent {
+   height: 200px;
+   width: 200px;
+   background-color: red;
+   color: #fff;
+   position: relative;
+} */
+
