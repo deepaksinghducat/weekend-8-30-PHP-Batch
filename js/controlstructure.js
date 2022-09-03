@@ -54,7 +54,7 @@
 
 // for
 
-let array = [10,20,30,40,50,60,70,80,90];
+// let array = [10,20,30,40,50,60,70,80,90];
 
 // console.log(array[0]);
 // console.log(array[0]);
@@ -90,11 +90,11 @@ let array = [10,20,30,40,50,60,70,80,90];
 
 // do while
 
-let a = 10;
+// let a = 10;
 
-do {
+// do {
 
-	console.log("a = " + a);
+// 	console.log("a = " + a);
 	
-} while ( a === 11);
+// } while ( a === 11);
 
