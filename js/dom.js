@@ -44,14 +44,26 @@
 
 // create a element
 
-const p = document.createElement('p')
-p.id = "Fsadfasfasdf"
-p.className= "Fasdfasf"
-p.innerHTML = "fdsafasffasd"
-console.log(p);
+// const p = document.createElement('p')
+// p.id = "Fsadfasfasdf"
+// p.className= "Fasdfasf"
+// p.innerHTML = "fdsafasffasd"
+// console.log(p);
 
-const body = window.document.querySelector('body');
+// const body = window.document.querySelector('body');
 
-console.log(body);
-body.appendChild(p)
+// console.log(body);
+// body.appendChild(p)
+
+// BOM
+
+// History
+
+// history
+
+// screen
+
+
+// location
+
 
