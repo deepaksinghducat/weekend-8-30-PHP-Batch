@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+        .color-green {
+            color: green;
+        }
+    </style>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+</head>
+
+<body>
+    <button type="button" onclick="clickMe()">Click Me</button>
+    <!-- <button type="button" id="stop">Stop</button> -->
+
+
+    <div id="container" style="width: 100%;" class="color-green">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores eveniet aut quo ad eaque nam quidem veritatis
+        amet veniam repudiandae voluptates, recusandae, sint facilis aspernatur dolor harum officia alias aperiam.
+    </div>
+
+    <!-- <input type="text" id="input"> -->
+
+    <script>
+        // $(selector).action()
+        // $('#container').css('color', 'green')
+
+        // $(document).ready(() => {
+        //     $('button').click();
+
+        //     $('button').hover(() => {
+        //         $('button').css('background-color','red')
+        //     })
+        // })
+
+        // $('#container').hide();
+
+        function clickMe() {
+            // $('#container').css('color', 'red');
+            // $('#container').animate({ marginLeft : '400px'}, 3000);
+
+            
+            // $('#container').css('color', 'red').slideDown(2000).slideUp(3000);
+
+            // $('#container').slideToggle('slow', () => {
+            //     console.log("fdasfdsaf");
+            // });
+
+            // $('#stop').click(() => {
+            //     $('#container').stop();
+            // })
+
+        //   let vav1 = $('#input').val('fasdfasfdasfasdfasfdsafdasdf');
+            
+        //   console.log(vav1);
+
+
+            // root element
+            
+            // let rootEl =  $('#container').empty();
+            
+            // let div = document.createElement('div');
+            // div.innerHTML = "div";
+
+            // rootEl.before(div)
+
+            $('#container').css('color', 'red');
+        }      
+
+        // jquery
+        // syntax 
+        // Selector
+        // events
+        // fade
+        // slide
+        // animation
+        // stop
+        // callback function
+        // chaning
+
+        // element get ya set value
+        // text(), val(), html()
+        // element add 
+        // prepend(), append(), before(), after()
+        // remove element
+        // remove(), empty()
+        // class
+        // addClass(), removeClass(), toggleClass(), css()
+
+
+
+    </script>
+</body>
+
+</html>
